@@ -10,7 +10,7 @@
 - ไฟล์ดังกล่าวได้สอดแทรกบทสนทนา และ discussion ไปใน comment เพื่อให้ผู้เข้ามาอ่าน ได้สามารถเข้าใจอย่างจะแจ้งว่า
   เหตุอันใด ถึงต้อง normalize code ,เหตุอันใดถึง เลือกจะใช้ try,cache แทนที่ while True: ในบางส่วนงานของ network programming
   การ normalize code แบบ step by step อันนำไปสู่ การเลือกวิธีการ implement ง่ายๆ (simple) แต่เวลาที่ดำเนินการ (execute time) ต่างกันราวฟ้ากับเหว
-- file 2 testexecutetime.py เป็น code ที่โค้ช(แม่บุญญ)ใช้ สาธิตให้ดูว่าทำไม ที่เราเขียน loop กันตอนแรกถึงต้อง normalize code
+- file 2 executetime.py เป็น code ที่โค้ช(แม่บุญญ)ใช้ สาธิตให้ดูว่าทำไม ที่เราเขียน loop กันตอนแรกถึงต้อง normalize code
 
 หลังดูสาธิตของแม่ไปแล้ว เข้าใจแล้ว วันข้างหน้าหากยังยืนอยู่บนเส้นทางนี้ และ relation database ยังไม่ตาย!!!!
 ให้จำความรู้สึกกับตัวเลขที่ สาธิตนั้นไว้ให้ดี เพราะหลักการเดียวกัน cache,pointer retrieval 
